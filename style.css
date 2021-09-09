@@ -1,0 +1,10 @@
+#heading{
+    width: 100%;
+    top: 0;
+    height: 25px;
+}
+
+#currentTime{
+    font-weight: 500;
+    font-family: Fira Code;
+}
